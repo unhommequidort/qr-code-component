@@ -23,7 +23,7 @@ This is a simple QR code component built with plain HTML and CSS, made to follow
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html-and-custom-css-with-flexbox-9BDge9sUY3](https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html-and-custom-css-with-flexbox-9BDge9sUY3)
 - Live Site URL: [https://unhommequidort.github.io/qr-code-component/](https://unhommequidort.github.io/qr-code-component/)
 
 ## My process
