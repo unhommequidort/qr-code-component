@@ -24,7 +24,7 @@ This is a simple QR code component built with plain HTML and CSS, made to follow
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://unhommequidort.github.io/qr-code-component/)
+- Live Site URL: [https://unhommequidort.github.io/qr-code-component/](https://unhommequidort.github.io/qr-code-component/)
 
 ## My process
 
@@ -36,4 +36,4 @@ This is a simple QR code component built with plain HTML and CSS, made to follow
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/unhommequidort)
+- Frontend Mentor - [@unhommequidort](https://www.frontendmentor.io/profile/unhommequidort)
